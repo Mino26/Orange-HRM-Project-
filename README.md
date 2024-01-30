@@ -18,9 +18,9 @@ Functionalities in scope :
 	User management, 
 	Job,
 	Organization,
-  Qualifications,
+        Qualifications,
 	Nationalities,
-  Configuration,
+        Configuration,
 
 
 

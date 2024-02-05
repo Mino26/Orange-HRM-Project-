@@ -108,11 +108,18 @@ Verify that the system under test is stable and ready for testing.
 
 Test cases are executed on the created test Cycle summary: [cycle_summary.pdf](https://github.com/Mino26/Orange-HRM-Project-/files/14165225/cycle_summary.pdf)
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
+The complete bug reports can be found here:  [work-shift.bug.pdf](https://github.com/Mino26/Orange-HRM-Project-/files/14165265/work-shift.bug.pdf)
 
 Work shifts -> bug 
 
- 
+1.7 Test Completion
+Exit criteria was evaluated and passed
+
+The traceability matrix was generated and can be found here: Traceability_matrix.csv
+
+Test execution chart was generated, the final report shows.... -> describe the final report
+
+-> enter here test execution report/chart
 
 
 

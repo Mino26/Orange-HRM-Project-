@@ -17,10 +17,7 @@ Functionalities in scope :
 1.Admin Module,
 	User management, 
 	Job,
-	Organization,
-        Qualifications,
-	Nationalities,
-        Configuration,
+	
 
 
 
@@ -30,7 +27,7 @@ The Test Plan is designed to describe all details of testing for the Admin modul
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
 1.1.1 Roles assigned to the project and persons allocated : 
-Minodora Bianca - Admin module 
+Minodora Bianca - Admin module -> job 
 
 1.1.2 Entry criteria defined 
 
@@ -81,8 +78,41 @@ Test Case 1:
 
 
   1.2 Test Monitoring and Control
-  
 
+  
+  
+ 1.3 Test Analysis
+
+ 
+
+1.4 Test Design
+
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
+
+Test cases: -> Job, Job Title, Job add Button, Pay Grades, Employment status, Job Categories, Organization , Work shifts
+
+The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/Mino26/Orange-HRM-Project-/files/14165184/test_cases.pdf)
+
+1.5 Test Implementation
+
+The following elements are needed to be ready before the test execution phase begins.
+
+here what needs to be ready for the test execution to begin:
+
+Ensure that the test enviorment is set up, test data is prepared and all necessary test resources, including test script and tools are in place.
+
+Verify that the system under test is stable and ready for testing.
+
+
+1.6 Test Execution
+
+Test cases are executed on the created test Cycle summary: [cycle_summary.pdf](https://github.com/Mino26/Orange-HRM-Project-/files/14165225/cycle_summary.pdf)
+
+Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
+
+Work shifts -> bug 
+
+ 
 
 
 

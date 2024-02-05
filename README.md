@@ -115,11 +115,84 @@ Work shifts -> bug
 1.7 Test Completion
 Exit criteria was evaluated and passed
 
-The traceability matrix was generated and can be found here: Traceability_matrix.csv
+The traceability matrix was generated and can be found here: 
 
-Test execution chart was generated, the final report shows.... -> describe the final report
+Test execution chart was generated, the final report shows.... -> 
 
--> enter here test execution report/chart
+-> enter here test execution report :
+
+MIN-6
+Aligment of component is on the top of the page
+FAIL
+
+MIN-6
+Aligment of component is on the top of the page
+PASS
+
+MIN-7
+Expand/collapse button is in the top of the right corner
+PASS
+
+MIN-8
+User name cell correctly displayed
+PASS
+
+MIN-13
+Job Titles
+PASS
+
+MIN-13
+Job Titles
+PASS
+
+MIN-13
+Job Titles
+PASS
+
+MIN-13
+Job Titles
+PASS
+
+MIN-14
+Job Title add button
+PASS
+
+MIN-15
+Pay grades
+PASS
+
+MIN-16
+Pay grades
+PASS
+
+MIN-18
+Pay grades
+PASS
+
+
+MIN-19
+Employment status
+PASS
+
+
+MIN-20
+Employment status
+PASS
+
+
+MIN-21
+Job Categories
+PASS
+
+MIN-22
+Job Categories
+Minodora_Bianca_TMTA18
+PASS
+
+
+
+
+
 
 
 

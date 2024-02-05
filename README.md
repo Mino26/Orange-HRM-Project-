@@ -189,7 +189,6 @@ PASS
 
 MIN-22
 Job Categories
-Minodora_Bianca_TMTA18
 PASS
 
 

@@ -20,7 +20,6 @@ Functionalities in scope :
 	
 
 
-
 1.1 Test planning 
 
 The Test Plan is designed to describe all details of testing for the Admin module from the OrangeHRM application.
@@ -112,10 +111,11 @@ The complete bug reports can be found here:  [work-shift.bug.pdf](https://github
 
 Work shifts -> bug 
 
+
 1.7 Test Completion
 Exit criteria was evaluated and passed
 
-The traceability matrix was generated and can be found here: 
+The traceability matrix was generated and can be found here: [Forward Traceability_5_2_2024.xlsx](https://github.com/Mino26/Orange-HRM-Project-/files/14165640/Forward.Traceability_5_2_2024.xlsx)
 
 Test execution chart was generated, the final report shows.... -> 
 

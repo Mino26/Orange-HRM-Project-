@@ -71,17 +71,20 @@ Test Case 1:
   2. Enter valid password 
   3. Press the log in button 
      
-   Test data: user valid:.... password valid:....
+   Test data: user valid / password valid /
 		Current results: log in succsefully
 		Expected results: The user must be redirected to the home page 
 
 
-  1.2 Test Monitoring and Control
+ 1.2 Test Monitoring and Control
 
   
   
  1.3 Test Analysis
+ 
+The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
+Enter test conditions here
  
 
 1.4 Test Design
@@ -117,7 +120,7 @@ Exit criteria was evaluated and passed
 
 The traceability matrix was generated and can be found here: [Forward Traceability_5_2_2024.xlsx](https://github.com/Mino26/Orange-HRM-Project-/files/14165640/Forward.Traceability_5_2_2024.xlsx)
 
-Test execution chart was generated, the final report shows.... -> 
+Test execution chart was generated
 
 -> enter here test execution report :
 

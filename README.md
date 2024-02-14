@@ -56,6 +56,7 @@ website doesn’t support 100 users
 
 
 1.1.6 Evaluating entry criteria
+
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
 Testing the log in functionality

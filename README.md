@@ -15,8 +15,10 @@ Functional specifications : https://itfclasses.atlassian.net/jira/software/c/pro
 Functionalities in scope :
 
 1.Admin Module,
-	User management, 
-	Job,
+	
+ User management, 
+	
+ Job,
 	
 
 

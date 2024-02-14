@@ -16,8 +16,6 @@ Functionalities in scope :
 
 1.Admin Module,
 	
- User management, 
-	
  Job,
 	
 

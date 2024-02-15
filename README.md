@@ -42,6 +42,7 @@ Entry criteria for software testing must be clearly defined to ensure a smooth a
   <li>Completion of test enviorment setup and configuration</li>
 <li>Preparation and documentation of test cases, ensuring coverage of all relevant scenarios</li>
 </li>Confirmation of readliness from stakeholders or project management</li>
+	
 </ol>
 
 

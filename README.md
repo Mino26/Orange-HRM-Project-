@@ -6,7 +6,6 @@ Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/
 
 API Documentation:
 
-The final project will be split into 2 sections: Testing section and SQL section.
 
 Tools used: Jira , zephyr 
 
@@ -14,9 +13,7 @@ Functional specifications : https://itfclasses.atlassian.net/jira/software/c/pro
 
 Functionalities in scope :
 
-1.Admin Module,
-	
- Job,
+1.Job,
 	
 
 

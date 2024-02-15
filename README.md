@@ -24,7 +24,7 @@ Functionalities not in scope :
   <li>Fixing bugs</li>
 </ol>
 
-1.1    <h4>Test planning</h4>
+1.1  <h4>Test planning</h4>
 
 The Test Plan is designed to describe all details of testing for the Admin module from the OrangeHRM application.
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
@@ -35,6 +35,14 @@ The plan identifies the items to be tested, the features to be tested, the types
 | Minodora Bianca| Minodora Bianca |
 
 1.1.2 <h4>Entry criteria</h4> 
+
+Entry criteria for software testing must be clearly defined to ensure a smooth and effective testing process. Before testing can begin, the following conditions must be met:
+<ol>
+  <li>Availability of the required software builds and versions.</li>
+  <li>Completion of test enviorment setup and configuration</li>
+<li>Preparation and documentation of test cases, ensuring coverage of all relevant scenarios</li>
+</li>Confirmation of readliness from stakeholders or project management</li>
+</ol>
 
 
 Entry criteria:

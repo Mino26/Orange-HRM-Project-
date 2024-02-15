@@ -67,7 +67,12 @@ update tests are 100% passed (update tests will not generate other new issues th
 
 Tests in scope: admin module to function at its max capacity without any error occurred
 
-Tests not in scope: not applicable 
+Tests not in scope:  
+<ol>
+  <li>Automation Testing</li>
+  <li>Designing the user interface</li>
+  <li>Fixing bugs</li>
+</ol>
 
 
 1.1.5 Risks detected

@@ -50,8 +50,14 @@ Entry criteria:
 smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
 testing environment is up and running
 
-1.1.3 Exit criteria defined 
+1.1.3 <h4>Exit criteria </h4>
 
+<ol>
+  <li>Test coverage goals have been achieved, ensuring that all critical functionalities and use cases have been tested</li>
+  <li>All acceptance criteria outlined in the project requirements or user stories have been satisfied</li>
+<li>All high-priority defects have been resolved</li>
+	
+</ol>
 Exit criteria:
 92% of tests are passed
 no Critical issues have Open status

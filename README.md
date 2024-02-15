@@ -9,7 +9,7 @@ API Documentation:
 
 Tools used: Jira , zephyr 
 
-Functional specifications :[JIRA MINO](https://itfclasses.atlassian.net/jira/software/c/projects/MIN/boards/306)
+Functional specifications :[JIRA PROJECT MIN-BOARD](https://itfclasses.atlassian.net/jira/software/c/projects/MIN/boards/306)
 
 Functionalities in scope :
 

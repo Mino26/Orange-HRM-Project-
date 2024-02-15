@@ -17,6 +17,12 @@ Functionalities in scope :
   <li>Job</li>
 </ol>
 
+Functionalities not in scope :
+<ol>
+  <li>Automation Testing</li>
+  <li>Designing the user interface</li>
+  <li>Fixing bugs</li>
+</ol>
 
 1.1 Test planning 
 

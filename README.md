@@ -12,9 +12,10 @@ Tools used: Jira , zephyr
 Functional specifications :[JIRA PROJECT MIN-BOARD](https://itfclasses.atlassian.net/jira/software/c/projects/MIN/boards/306)
 
 Functionalities in scope :
-
-1.Job,
-	
+	<ol>
+  <li>Admin Module</li>
+  <li>Job</li>
+</ol>
 
 
 1.1 Test planning 

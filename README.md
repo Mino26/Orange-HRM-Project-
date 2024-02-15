@@ -21,7 +21,7 @@ Functionalities in scope :
 
 Functionalities not in scope :
 <ol>
-  <li>Bussines process</li>
+  <li>Business process</li>
   <li>Customization or configuration</li>
 	
 </ol>

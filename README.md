@@ -70,6 +70,9 @@ update tests are 100% passed (update tests will not generate other new issues th
 Tests in scope:
 <ol>
   <li>Admin Module and Job to function at its max capacity without any error ocurred</li> 
+	<li>Regression testing</li>
+	<li>Early testing</li>
+	<li></li>
 </ol>
 
 Tests not in scope:  

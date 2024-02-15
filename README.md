@@ -2,7 +2,7 @@
 
 <h3>The scope of the final project</h3>  ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
-Application under test: [ORANGE HRM]https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+Application under test: [ORANGE HRM](https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index).
 
 API Documentation:
 

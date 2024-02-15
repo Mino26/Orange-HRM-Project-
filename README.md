@@ -12,16 +12,18 @@ Tools used: Jira , zephyr
 Functional specifications :[JIRA PROJECT MIN-BOARD](https://itfclasses.atlassian.net/jira/software/c/projects/MIN/boards/306)
 
 Functionalities in scope :
-	<ol>
+<ol>
   <li>Admin Module</li>
   <li>Job</li>
+	
 </ol>
+
 
 Functionalities not in scope :
 <ol>
-  <li>Automation Testing</li>
-  <li>Designing the user interface</li>
-  <li>Fixing bugs</li>
+  <li>Bussines process</li>
+  <li>Customization or configuration</li>
+	
 </ol>
 
 1.1  <h4>Test planning</h4>
@@ -65,7 +67,8 @@ update tests are 100% passed (update tests will not generate other new issues th
 
 1.1.4 Test scope
 
-Tests in scope: admin module to function at its max capacity without any error occurred
+Tests in scope:<ol>
+  <li>Admin Module and Job to function at its max capacity without any error ocurred</li> 
 
 Tests not in scope:  
 <ol>

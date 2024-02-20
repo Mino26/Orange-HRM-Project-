@@ -148,7 +148,7 @@ Verify that the system under test is stable and ready for testing.
 
 Test cases are executed on the created test Cycle summary: [cycle_summary.pdf](https://github.com/Mino26/Orange-HRM-Project-/files/14165225/cycle_summary.pdf)
 
-The complete bug reports can be found here:  [work-shift.bug.pdf](file:///C:/Users/Minodora/Downloads/MIN-24.pdf)
+The complete bug reports can be found here:  [MIN-24.bug.pdf](file:///C:/Users/Minodora/Downloads/MIN-24.pdf)
 
 Work shifts -> bug 
 

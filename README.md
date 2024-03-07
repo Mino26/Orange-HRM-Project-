@@ -26,15 +26,19 @@ Functionalities not in scope :
 	
 </ol>
 
+***
+
 1.1  <h4>Test planning</h4>
 
-The Test Plan is designed to describe all details of testing for the Admin module from the OrangeHRM application.
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
+<p>The Test Plan is designed to describe all details of testing for the Admin module from the OrangeHRM application.
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.</p>
 
  1.1.1<h4>Roles assigned to the project and persons allocated</h4> 
 | Admin module  | Job |
 | ------------- | ------------- |
 | Minodora Bianca| Minodora Bianca |
+
+***
 
 1.1.2 <h4>Entry criteria</h4> 
 
@@ -47,10 +51,7 @@ Entry criteria for software testing must be clearly defined to ensure a smooth a
 	
 </ol>
 
-
-Entry criteria:
-smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
-testing environment is up and running
+***
 
 1.1.3 <h4>Exit criteria </h4>
 
@@ -60,19 +61,18 @@ testing environment is up and running
 <li>All high-priority defects have been resolved</li>
 	
 </ol>
-Exit criteria:
-92% of tests are passed
-no Critical issues have Open status
-update tests are 100% passed (update tests will not generate other new issues that impact the application)
 
-1.1.4 Test scope
+***
+
+
+1.1.4 <h4>Test scope</h4>
 
 Tests in scope:
 <ol>
   <li>Admin Module and Job to function at its max capacity without any error ocurred</li> 
 	<li>Regression testing</li>
 	<li>Early testing</li>
-	<li></li>
+	<li>Positive and Negative testing</li>
 </ol>
 
 Tests not in scope:  
@@ -82,36 +82,65 @@ Tests not in scope:
   <li>Fixing bugs</li>
 </ol>
 
+***
 
-1.1.5 Risks detected
 
-Risks: user data (permissions, user roles, sensitive data etc) might be impacted with update tests
+1.1.5 <h4>Risks detected</h4>
+| Risks         | 
+| ------------- | 
+| user data    ( permissions, user roles, sensitive data)
+| compatibility issues |
+
+
+<p>Risks: user data (permissions, user roles, sensitive data etc) might be impacted with update tests,
 Safari browser might have performance issues or compatibility issues
-website doesn’t support 100 users
+website doesn’t support 100 users.</p>
 
+***
 
-1.1.6 Evaluating entry criteria
+1.1.6 <h4>Evaluating entry criteria</h4>
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+| Evaluating Entry Criteria        | 
+| ------------- | 
+| smoke test passed
+| the test planning have been achieved test process can continue |
 
-Testing the log in functionality
+<p>Entry criterias:
+smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+testing environment is up and running.</p>
 
-Verification log in 
+<h5>The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.</h5> 
 
-Test Case 1: 	
+***
+
+  
+Testing the log in functionality,
+
+Verification log in,
+
+<p>Test Case 1:</p>	
     Description: Test login successfully
 		
   Preliminary conditions: The user must be on the log in page
 		
-  Execution steps: 
+  <p>Execution steps:</p>
     
   1. Enter valid user
   2. Enter valid password 
   3. Press the log in button 
      
-   Test data: user valid / password valid /
-		Current results: log in succsefully
-		Expected results: The user must be redirected to the home page 
+   Test data: 
+	   <ol>
+    <li>user valid / password valid</li>
+		<li>Current results: log in succsefully</li>
+		<li>Expected results: The user must be redirected to the home page</li> 
+  </ol>
+
+<p>Exit criterias:
+92% of tests are passed
+no Critical issues have Open status
+update tests are 100% passed (update tests will not generate other new issues that impact the application)</p>
+
 
 
  1.2 Test Monitoring and Control

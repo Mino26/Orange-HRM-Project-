@@ -141,18 +141,22 @@ Verification log in,
 no Critical issues have Open status
 update tests are 100% passed (update tests will not generate other new issues that impact the application)</p>
 
+***
+
 
 
  1.2 Test Monitoring and Control
 
-  
+
+  ***
   
  1.3 Test Analysis
  
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
 Enter test conditions here
- 
+
+ ***
 
 1.4 Test Design
 
@@ -161,6 +165,8 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 Test cases: -> Job, Job Title, Job add Button, Pay Grades, Employment status, Job Categories, Organization , Work shifts
 
 The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/Mino26/Orange-HRM-Project-/files/14165184/test_cases.pdf)
+
+***
 
 1.5 Test Implementation
 
@@ -172,6 +178,8 @@ Ensure that the test enviorment is set up, test data is prepared and all necessa
 
 Verify that the system under test is stable and ready for testing.
 
+***
+
 
 1.6 Test Execution
 
@@ -180,6 +188,7 @@ Test cases are executed on the created test Cycle summary: [cycle_summary.pdf](h
 The complete bug reports can be found here: 
 Work shifts ->[BUG.pdf](https://github.com/Mino26/Orange-HRM-Project-/files/14524971/MIN-24.3.pdf)
 
+***
 
 
 1.7 Test Completion

@@ -146,7 +146,8 @@ update tests are 100% passed (update tests will not generate other new issues th
 
 
  1.2 Test Monitoring and Control
- Monitoring continuously, observing the progress and status testing activities to identify any deviations from the plan or expected outcomes. Implementing coorective actions and adjustments as necessary to ensure testing stats on track, meets objectives, and adheres to quality standards. 
+ Monitoring continuously, observing the progress and status testing activities to identify any deviations from the plan or expected outcomes. Implementing coorective actions and adjustments as necessary 
+ to ensure testing stats on track, meets objectives, and adheres to quality standards. 
  Tracking test progress, reporting, risk management, quality assurance
 
 
@@ -157,7 +158,7 @@ update tests are 100% passed (update tests will not generate other new issues th
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
 Enter test conditions here
-[test_condition.pdf]https://itfclasses.atlassian.net/jira/software/c/projects/MIN/issues?jql=project%20%3D%20%22MIN%22%20ORDER%20BY%20created%20DESC
+[test_condition.pdf](https://itfclasses.atlassian.net/jira/software/c/projects/MIN/issues?jql=project%20%3D%20%22MIN%22%20ORDER%20BY%20created%20DESC)
  ***
 
 1.4 Test Design
@@ -200,7 +201,7 @@ The traceability matrix was generated and can be found here: [Forward Traceabili
 
 Test execution chart was generated
 
--> enter here test execution report :
+-> enter here test execution report : [test-execution-report](https://itfclasses.atlassian.net/projects/MIN?selectedItem=com.thed.zephyr.je__test-summary-project-level)
 
 
 

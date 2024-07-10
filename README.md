@@ -146,6 +146,8 @@ update tests are 100% passed (update tests will not generate other new issues th
 
 
  1.2 Test Monitoring and Control
+ Monitoring continuously, observing the progress and status testing activities to identify any deviations from the plan or expected outcomes. Implementing coorective actions and adjustments as necessary to ensure testing stats on track, meets objectives, and adheres to quality standards. 
+ Tracking test progress, reporting, risk management, quality assurance
 
 
   ***
@@ -155,7 +157,7 @@ update tests are 100% passed (update tests will not generate other new issues th
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
 Enter test conditions here
-
+[test_condition.pdf]https://itfclasses.atlassian.net/jira/software/c/projects/MIN/issues?jql=project%20%3D%20%22MIN%22%20ORDER%20BY%20created%20DESC
  ***
 
 1.4 Test Design
@@ -200,72 +202,7 @@ Test execution chart was generated
 
 -> enter here test execution report :
 
-MIN-6
-Aligment of component is on the top of the page
-FAIL
 
-MIN-6
-Aligment of component is on the top of the page
-PASS
-
-MIN-7
-Expand/collapse button is in the top of the right corner
-PASS
-
-MIN-8
-User name cell correctly displayed
-PASS
-
-MIN-13
-Job Titles
-PASS
-
-MIN-13
-Job Titles
-PASS
-
-MIN-13
-Job Titles
-PASS
-
-MIN-13
-Job Titles
-PASS
-
-MIN-14
-Job Title add button
-PASS
-
-MIN-15
-Pay grades
-PASS
-
-MIN-16
-Pay grades
-PASS
-
-MIN-18
-Pay grades
-PASS
-
-
-MIN-19
-Employment status
-PASS
-
-
-MIN-20
-Employment status
-PASS
-
-
-MIN-21
-Job Categories
-PASS
-
-MIN-22
-Job Categories
-PASS
 
 
 
